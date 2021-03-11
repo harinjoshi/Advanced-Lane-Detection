@@ -1,5 +1,7 @@
 ## Writeup Template
 
+This is one of the project I developed during intial years of my Data Science Journey with help of Udacity.This project was developed under Udacity's phase 1 scholarship for KPIT company.
+
 **Advanced Lane Finding Project**
 
 Following are the goals / steps of this project are the following:
